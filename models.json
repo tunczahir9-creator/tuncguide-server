@@ -1,0 +1,22 @@
+[
+  {
+    "model": "Redmi Note 13 Pro 4G",
+    "image": "https://i.imgur.com/2xStG8X.jpeg",
+    "product": "EMERALD",
+    "res_original": "3K",
+    "res_gl": "43K",
+    "res_chn": "33K",
+    "sorun": "Sinyal zayıf / hiç yok",
+    "cozum": "RF hattındaki direnç değişimi ile çözülür."
+  },
+  {
+    "model": "Redmi Note 12 Pro",
+    "image": "https://i.imgur.com/xQO9H8N.jpeg",
+    "product": "SKY",
+    "res_original": "4K",
+    "res_gl": "47K",
+    "res_chn": "36K",
+    "sorun": "-",
+    "cozum": "-"
+  }
+]
